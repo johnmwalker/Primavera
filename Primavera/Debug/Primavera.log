@@ -1,6 +1,8 @@
 ﻿  AppWindow.cpp
+  DeviceContext.cpp
   GraphicsEngine.cpp
-  SwapChain.cpp
   main.cpp
+  Window.cpp
   Generating Code...
+  LINK : C:\Users\beoka\source\repos\Primavera\Debug\Primavera.exe not found or not built by the last incremental link; performing full link
   Primavera.vcxproj -> C:\Users\beoka\source\repos\Primavera\Debug\Primavera.exe
